@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub ! Je suis étudiant en BTS SIO (Services Informa
 ## 🚀 À propos de moi
 
 - 🎓 **Formation** : Étudiant en BTS SIO (option SLAM - Solutions Logicielles et Applications Métiers).
-- 📖 **Autodidacte** : Depuis 2021 sur différentes plateformes de formations, nottament Udemy, Openclassrooms, Toutapprendre, ENI-elearning, Skilleos etc.
+- 📖 **Autodidacte** : Depuis 2020 sur différentes plateformes de formations, nottament Udemy, Openclassrooms, Toutapprendre, ENI-elearning, Skilleos etc.
 - 💻 **Compétences** : Développement logiciel, programmation orientée objet, bases de données, gestion de projets informatiques.
 - 🌱 **En apprentissage** : Je continue d'approfondir mes connaissances en C#, Python, Java, et en développement web (HTML, CSS, JavaScript).
 - 🔍 **Objectif** : Devenir développeur full-stack ou spécialisé en développement d'applications métiers.
