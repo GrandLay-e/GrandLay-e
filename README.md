@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Sow Abdallah] !
+# 👋 Bonjour, je suis Sow Abdallah !
 
 Bienvenue sur mon profil GitHub ! Je suis étudiant en BTS SIO (Services Informatiques aux Organisations) et passionné par le développement logiciel, la programmation et les technologies de l'information. Ce repository est un espace où je partage mes projets, mes expériences et mes apprentissages.
 
