@@ -7,7 +7,7 @@ Bienvenue sur mon profil GitHub ! Je suis étudiant en BTS SIO (Services Informa
 - 🎓 **Formation** : Étudiant en BTS SIO (option SLAM - Solutions Logicielles et Applications Métiers).
 - 📖 **Autodidacte** : Depuis 2020 sur différentes plateformes de formations, nottament Udemy, Openclassrooms, Toutapprendre, ENI-elearning, Skilleos etc.
 - 💻 **Compétences** : Développement logiciel, programmation orientée objet, bases de données, gestion de projets informatiques.
-- 🌱 **En apprentissage** : Je continue d'approfondir mes connaissances en C#, Python, Java, et en développement web (HTML, CSS, JavaScript).
+- 🌱 **En apprentissage** : Je continue d'approfondir mes connaissances en C#, Python, et en développement web (HTML, CSS, Php).
 - 🔍 **Objectif** : Devenir développeur full-stack ou spécialisé en développement d'applications métiers.
 
 ## 🛠️ Technologies et outils
@@ -16,8 +16,7 @@ Bienvenue sur mon profil GitHub ! Je suis étudiant en BTS SIO (Services Informa
 - **C** : Language avec lequel j'ai appris les bases de la programmation.
 - **C#** : Maîtrise des concepts de POO, développement d'applications console et Windows Forms.
 - **Python** : Expérience en scripts et automatisation.
-- **Java** : Connaissances de base en développement d'applications.
-- **HTML/CSS/JavaScript** : Création de sites web simples.
+- **HTML/CSS/Php** : Création de sites web simples.
 
 ### Outils et frameworks
 - **Visual Studio** : Environnement de développement pour C#.
