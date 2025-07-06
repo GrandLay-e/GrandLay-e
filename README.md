@@ -28,9 +28,12 @@ Bienvenue sur mon profil GitHub ! Je suis étudiant en BTS SIO (Services Informa
 
 Voici quelques-uns des projets que j'ai réalisés :
 
-### [ClientReparation](https://github.com/votre-utilisateur/ClientReparation)
+### [ClientReparation](https://github.com/grandlay-e/ClientReparation)
 Un système de gestion de réparations automobiles en C#, mettant en œuvre des concepts de POO et UML.
-
+### [Company Scraper](https://github.com/grandlay-e/company-scraper)
+Un outils d'automatisation qui permet de récupèrer des informations sur des entreprises, ainsi que d'y postuler automatiquement
+### [Eyrein Products](https://github.com/GrandLay-e/eyrein-products)
+Un projet réalisé pendant un stage. Il sert à télécharger des fiches de produits de nettoyage.
 ### J'en publierai d'autres au fur et à mesure
 
 ---
