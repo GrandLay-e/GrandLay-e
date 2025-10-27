@@ -24,6 +24,9 @@ Bienvenue sur mon profil GitHub ! Je suis étudiant en BTS SIO (Services Informa
 - **SQL** : Gestion de bases de données relationnelles (MySQL, SQL Server).
 - **UML** : Modélisation de systèmes informatiques.
 
+- **Open Source** 
+[![An image of @grandlaye's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/grandlaye)](https://holopin.io/@grandlaye)
+
 ## 📂 Mes projets
 
 Voici quelques-uns des projets que j'ai réalisés :
