@@ -5,6 +5,7 @@
 🔎 Centres d’intérêt : **Python, automatisation, extraction de données, bases de données, API, sécurité, tests & CI/CD**  
 🏆 Hacktoberfest Supercontributor — [Badges Holopin](https://www.holopin.io/@grandlaye#badges)  
 🎯 Objectif : alternance en développement, orienté applicatif et back-end
+
 ---
 
 ## 🌐 Socials:
@@ -75,6 +76,7 @@
 
 **Points forts :** polyvalence hors web, création d’applications desktop fonctionnelles.
 🔗 [Voir le repo](https://github.com/GrandLay-e/PizzaSaler)
+
 ---
 
 ## 🧩 Holopin Badges
