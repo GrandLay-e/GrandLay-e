@@ -5,13 +5,12 @@
 🔎 Centres d’intérêt : **Python, automatisation, extraction de données, bases de données, API, sécurité, tests & CI/CD**  
 🏆 Hacktoberfest Supercontributor — [Badges Holopin](https://www.holopin.io/@grandlaye#badges)  
 🎯 Objectif : alternance en développement, orienté applicatif et back-end
-
+---
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sowabdallah)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://grandlay-e.github.io/portfolio/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sow.abdallh@gmail.com)
-
-
+---
 
 # 💻 Tech Stack
 
@@ -37,10 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-Parfait 😎 ! Voici la version **projets avec badges tech directement sous chaque projet**, en Markdown, prête à coller dans ton README :
-
 ---
-
 # 💼 Projets sélectionnés
 
 ### 1️⃣ Company Scraper & Auto-Apply bot
@@ -50,6 +46,7 @@ Parfait 😎 ! Voici la version **projets avec badges tech directement sous chaq
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
 
 **Description :** Automatisation complète : récupération de données depuis le web **et soumission automatique de candidatures**. Gestion des erreurs et logs pour assurer la robustesse.
+
 **Points forts :** script autonome et réutilisable, orientation data et productivité.
 🔗 [Voir le repo](https://github.com/GrandLay-e/company-scraper)
 
@@ -62,6 +59,7 @@ Parfait 😎 ! Voici la version **projets avec badges tech directement sous chaq
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 **Description :** Application web full-stack suivant le pattern MVC, avec base de données, migrations et validation côté serveur.
+
 **Points forts :** structuration claire du code, utilisation d’un framework pro et bonnes pratiques web.
 🔗 [Voir le repo](https://github.com/GrandLay-e/GSB-Gestionnaire-)
 
@@ -74,16 +72,17 @@ Parfait 😎 ! Voici la version **projets avec badges tech directement sous chaq
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge\&logo=windows\&logoColor=white)
 
 **Description :** Application desktop démontrant la conception orientée objet, l’interface utilisateur et la logique métier complète.
+
 **Points forts :** polyvalence hors web, création d’applications desktop fonctionnelles.
 🔗 [Voir le repo](https://github.com/GrandLay-e/PizzaSaler)
-
+---
 
 ## 🧩 Holopin Badges
 
 Vous pouvez découvrir mes contributions open-source et mes badges obtenus grâce à des événements comme **Hacktoberfest** sur mon profil Holopin.  
 
 [![An image of @grandlaye's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/grandlaye)](https://holopin.io/@grandlaye)
-
+---
 
 
 # 📊 GitHub Stats: 
