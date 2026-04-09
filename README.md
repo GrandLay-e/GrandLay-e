@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓 Étudiant en BTS SIO (SLAM) avec un bagage en LLCER – Mondes Arabes  
+🎓 Étudiant en BTS SIO (SLAM)
 🧠 Passionné par la **data et la sécurité**, j’aime extraire, traiter et structurer les informations pour créer des solutions techniques efficaces  
 🔎 Centres d’intérêt : **Python, automatisation, extraction de données, bases de données, API, sécurité, tests & CI/CD**  
 🏆 Hacktoberfest Supercontributor — [Badges Holopin](https://www.holopin.io/@grandlaye#badges)  
